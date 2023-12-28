@@ -6,4 +6,4 @@ Hygrogen is a template for creating customizable react applications.
     - *.styles.css
     - *.spec.jsx
 - All redux slices are located in `/src/redux/slices`
-- Redux is utilized to store state utilized in many of the reusable components. An example is the current path which is used in both the header navigation menu & footer navigation menu.
+- Redux is used to store state utilized in many of the reusable components. An example is the current path which is used in both the header navigation menu & footer navigation menu.
